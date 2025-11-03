@@ -1,0 +1,7 @@
+tensorflow>=2.10
+flask
+pillow
+numpy
+gunicorn        # opsional, untuk deploy produksi
+opencv-python   # untuk pemrosesan gambar
+datetime
